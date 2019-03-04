@@ -24,7 +24,7 @@ services:
 docker-compose up
 ~~~
 
-| -------------|--------------|
+
 | atrybut      | opis         |
 | -------------|--------------|
 | content type | typ danych   |
