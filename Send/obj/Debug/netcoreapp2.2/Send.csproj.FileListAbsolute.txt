@@ -1,0 +1,11 @@
+/Users/exact/Projects/rabbitmq-demo/Send/bin/Debug/netcoreapp2.2/Send.deps.json
+/Users/exact/Projects/rabbitmq-demo/Send/bin/Debug/netcoreapp2.2/Send.runtimeconfig.json
+/Users/exact/Projects/rabbitmq-demo/Send/bin/Debug/netcoreapp2.2/Send.runtimeconfig.dev.json
+/Users/exact/Projects/rabbitmq-demo/Send/bin/Debug/netcoreapp2.2/Send.dll
+/Users/exact/Projects/rabbitmq-demo/Send/bin/Debug/netcoreapp2.2/Send.pdb
+/Users/exact/Projects/rabbitmq-demo/Send/obj/Debug/netcoreapp2.2/Send.csprojAssemblyReference.cache
+/Users/exact/Projects/rabbitmq-demo/Send/obj/Debug/netcoreapp2.2/Send.csproj.CoreCompileInputs.cache
+/Users/exact/Projects/rabbitmq-demo/Send/obj/Debug/netcoreapp2.2/Send.AssemblyInfoInputs.cache
+/Users/exact/Projects/rabbitmq-demo/Send/obj/Debug/netcoreapp2.2/Send.AssemblyInfo.cs
+/Users/exact/Projects/rabbitmq-demo/Send/obj/Debug/netcoreapp2.2/Send.dll
+/Users/exact/Projects/rabbitmq-demo/Send/obj/Debug/netcoreapp2.2/Send.pdb
