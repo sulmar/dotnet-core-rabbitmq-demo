@@ -23,3 +23,15 @@ services:
 ~~~
 docker-compose up
 ~~~
+
+| -------------|--------------|
+| atrybut      | opis         |
+| -------------|--------------|
+| content type | typ danych   |
+| content encoding | kodowanie danych |
+| routing key | klucz routing-u |
+| delivery mode | sposób dostarczenia wiadomości określający, czy wiadomość ma być utrwalona (ang. persistent) |
+| message priority | priorytet wiadomości |
+| message publishing timestamp | czas publikacji wiadomości |
+| expiration period | inaczej TTL czyli opóźnienie w dostarczeniu wiadomości podawane w milisekundach |
+| publisher application id | identyfikator producenta |
