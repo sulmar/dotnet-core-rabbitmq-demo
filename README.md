@@ -24,6 +24,19 @@ services:
 docker-compose up
 ~~~
 
+### Zarządzanie
+
+Wpisz w przeglądarce
+
+~~~
+http://localhost:15672
+~~~
+
+
+domyślnie hasło i login to „guest”
+
+###
+
 
 | atrybut      | opis         |
 | -------------|--------------|
