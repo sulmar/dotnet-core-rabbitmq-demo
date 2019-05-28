@@ -35,7 +35,7 @@ http://localhost:15672
 
 domyślnie hasło i login to „guest”
 
-###
+### Atrybuty
 
 
 | atrybut      | opis         |
