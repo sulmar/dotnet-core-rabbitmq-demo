@@ -32,13 +32,16 @@ Wpisz w przeglądarce
 http://localhost:15672
 ~~~
 
+
+domyślnie hasło i login to _„guest”_
+
+
 ### Instalacja
 ~~~ bash
 dotnet add package RabbitMQ.Client
 ~~~
 
 
-domyślnie hasło i login to „guest”
 
 ### Atrybuty
 
